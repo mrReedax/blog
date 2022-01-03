@@ -7,3 +7,8 @@ body {
 .container{
     color: #2a066d
 }
+
+footer{
+    text-align: center;
+    background-color: #0dc57e
+}

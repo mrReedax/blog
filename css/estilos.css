@@ -7,3 +7,10 @@ body {
 .container{
     color: #3cff00
 }
+
+.title{
+    background-color: #d8149d;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
